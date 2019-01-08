@@ -1,5 +1,5 @@
 /*
- * Developed by Kamal ranjan
+ * Developed by sintu
  * POJO Class for User Address
  * 
  */
