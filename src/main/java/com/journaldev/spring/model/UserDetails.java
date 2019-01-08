@@ -1,5 +1,5 @@
 /*
- * developed by kamal
+ * developed by sintu
  */
 
 package com.journaldev.spring.model;
