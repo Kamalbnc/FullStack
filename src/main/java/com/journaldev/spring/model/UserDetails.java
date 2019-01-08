@@ -1,3 +1,7 @@
+/*
+ * developed by kamal
+ */
+
 package com.journaldev.spring.model;
 
 import java.util.ArrayList;
